@@ -1,0 +1,5 @@
+<dependency>
+	<groupId>com.tripadvisor</groupId>
+	<artifactId>trips</artifactId>		
+    <version>1.80.0</version>
+</dependency>
